@@ -10,3 +10,7 @@
     background-color: #E76F51;
     color: white;
 }
+/* mainpart */
+.bike-img{
+    filter: grayscale(100%);
+}
