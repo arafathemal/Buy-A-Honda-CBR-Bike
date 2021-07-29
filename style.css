@@ -14,3 +14,12 @@
 .bike-img{
     filter: grayscale(100%);
 }
+/* icon */
+.fa-star{
+    color: #E77C40;
+}
+.img-size{
+    width: 260px;
+    height: 265px;
+    border-radius: 70%;
+}
